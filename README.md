@@ -3,7 +3,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-4FC08D.svg?logo=vue.js)](https://vuejs.org/)
-[![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F.svg?logo=spring)](https://spring.io/projects/spring-boot)
+[![Django](https://img.shields.io/badge/Backend-Django-092E20.svg?logo=django)](https://www.djangoproject.com/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 > **数学冒险岛 (Math Adventure Island)** 是一个集游戏化学习、智能测评与个性化推荐于一体的智慧教育平台系统。本项目致力于打破传统数学学习的枯燥感，让学生在“闯关冒险”的过程中掌握数学知识，同时为教师提供精准的学情追踪与智能辅助教学工具。
 
