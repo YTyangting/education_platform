@@ -8,9 +8,7 @@
 
 > **数学冒险岛 (Math Adventure Island)** 是一个集游戏化学习、智能测评与个性化推荐于一体的智慧教育平台系统。本项目致力于打破传统数学学习的枯燥感，让学生在“闯关冒险”的过程中掌握数学知识，同时为教师提供精准的学情追踪与智能辅助教学工具。
 > 
-## Demo Video
 
-[![Demo]](media/demo.mp4)
 ## 📖 项目简介 (Introduction)
 
 在“数学冒险岛”中，每一个数学知识点都被设计成一个岛屿或关卡。学生通过答题闯关来获取积分和成就，平台后台则会根据学生的答题轨迹，运用**知识追踪（Knowledge Tracing）**和**大模型智能分析**，实时评估学生的知识掌握状态，并动态推荐适合的练习题。
@@ -95,7 +93,12 @@ Math-Adventure-Island/
 3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 将您的更改推送到分支 (`git push origin feature/AmazingFeature`)
 5. 发起一个 Pull Request
-
+6. 
+## Demo Video
+Math-Adventure-Island/
+├── frontend/ 
+    ├──media/
+       ├──demo.mp4
 ## ✉️ 联系方式 (Contact)
 
 项目负责人：[ting yang]
