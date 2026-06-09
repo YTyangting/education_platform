@@ -10,7 +10,7 @@
 > 
 ## Demo Video
 
-[![Demo](assets/teaser.png)](media/demo.mp4)
+[![Demo]](media/demo.mp4)
 ## 📖 项目简介 (Introduction)
 
 在“数学冒险岛”中，每一个数学知识点都被设计成一个岛屿或关卡。学生通过答题闯关来获取积分和成就，平台后台则会根据学生的答题轨迹，运用**知识追踪（Knowledge Tracing）**和**大模型智能分析**，实时评估学生的知识掌握状态，并动态推荐适合的练习题。
